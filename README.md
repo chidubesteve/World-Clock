@@ -3,6 +3,11 @@
 
 This Java application, "World Digital Clock," allows users to view the current time in various international time zones. It is built using Java Swing and provides a graphical user interface for selecting and displaying different time zones.
 
+
+
+https://github.com/chidubesteve/World-Clock/assets/117487194/65c978f1-0d93-4f3e-9e4a-e808e8cc34c5
+
+
 ## Getting Started
 
 To get started with the World Digital Clock application, follow these steps:
